@@ -1,2 +1,8 @@
-# Tugas1-PrakIMK-220077
+# Perpindahan Scene dan Menggerakan objek
+
+Nama : Wildan Rahmantya Andalaluna
+NPM : 140810220077
+Kelas : A
+
+
  
